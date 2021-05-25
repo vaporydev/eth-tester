@@ -1,4 +1,4 @@
-# Ethereum Tester
+# Vapory Tester
 
 [![Join the chat at https://gitter.im/ethereum/eth-tester](https://badges.gitter.im/ethereum/eth-tester.svg)](https://gitter.im/ethereum/eth-tester)
 
